@@ -1,5 +1,8 @@
 # Citi Bike Analysis
-![citi bike](/assets/citibike.jpg)
+
+<p align ="center">
+ <img src="/assets/citibike.jpg">
+</p>
 
 ## About
 
