@@ -10,7 +10,7 @@
 
 ### Questions answered in this workbook:
 
-##### Note: The three phases here refer to the pre pandemic which is the month of February, During pandemic which is Month of March and the later stage which is month of December.
+##### Note: The three phases here refer to the pre pandemic which is the month of February, During pandemic which is Month of March and the later stage which is month of December. Dataset can be found [here](https://s3.amazonaws.com/tripdata/index.html).
 
  - Distribution change from Customers to Subscribers in three phases of this pandemic.
  - Top 10 starting locations during the three phases.
